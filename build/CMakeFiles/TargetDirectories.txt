@@ -1,0 +1,5 @@
+/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/CMakeFiles/rebuild_cache.dir
+/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/CMakeFiles/edit_cache.dir
+/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/CMakeFiles/build_simplex_mesh.dir
+/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/CMakeFiles/CGAL_Qt5_moc_and_resources.dir
+/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/CMakeFiles/CGAL_Qt5_moc_and_resources_autogen.dir

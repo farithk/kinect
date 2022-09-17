@@ -1,0 +1,140 @@
+{
+	"BUILD_DIR" : "/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/CGAL_Qt5_moc_and_resources_autogen",
+	"CMAKE_BINARY_DIR" : "/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh",
+	"CMAKE_EXECUTABLE" : "/usr/local/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/usr/local/include/CGAL/Qt/DemosMainWindow.h",
+			"Mu",
+			"34EZIPZFLO/moc_DemosMainWindow.cpp"
+		],
+		[
+			"/usr/local/include/CGAL/Qt/GraphicsItem.h",
+			"Mu",
+			"34EZIPZFLO/moc_GraphicsItem.cpp"
+		],
+		[
+			"/usr/local/include/CGAL/Qt/GraphicsViewInput.h",
+			"Mu",
+			"34EZIPZFLO/moc_GraphicsViewInput.cpp"
+		],
+		[
+			"/usr/local/include/CGAL/Qt/GraphicsViewNavigation.h",
+			"Mu",
+			"34EZIPZFLO/moc_GraphicsViewNavigation.cpp"
+		],
+		[
+			"/usr/local/include/CGAL/Qt/camera.h",
+			"Mu",
+			"34EZIPZFLO/moc_camera.cpp"
+		],
+		[
+			"/usr/local/include/CGAL/Qt/frame.h",
+			"Mu",
+			"34EZIPZFLO/moc_frame.cpp"
+		],
+		[
+			"/usr/local/include/CGAL/Qt/image_interface.h",
+			"Mu",
+			"34EZIPZFLO/moc_image_interface.cpp"
+		],
+		[
+			"/usr/local/include/CGAL/Qt/keyFrameInterpolator.h",
+			"Mu",
+			"34EZIPZFLO/moc_keyFrameInterpolator.cpp"
+		],
+		[
+			"/usr/local/include/CGAL/Qt/manipulatedCameraFrame.h",
+			"Mu",
+			"34EZIPZFLO/moc_manipulatedCameraFrame.cpp"
+		],
+		[
+			"/usr/local/include/CGAL/Qt/manipulatedFrame.h",
+			"Mu",
+			"34EZIPZFLO/moc_manipulatedFrame.cpp"
+		],
+		[
+			"/usr/local/include/CGAL/Qt/qglviewer.h",
+			"Mu",
+			"34EZIPZFLO/moc_qglviewer.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/CGAL_Qt5_moc_and_resources_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/CGAL_Qt5_moc_and_resources_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"BOOST_ALL_NO_LIB",
+		"CGAL_USE_BASIC_VIEWER",
+		"CGAL_USE_GMPXX=1",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_NO_KEYWORDS",
+		"QT_OPENGL_LIB",
+		"QT_SVG_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build",
+		"/home/farithk/anaconda3/include/qt",
+		"/home/farithk/anaconda3/include/qt/QtWidgets",
+		"/home/farithk/anaconda3/include/qt/QtGui",
+		"/home/farithk/anaconda3/include/qt/QtCore",
+		"/home/farithk/anaconda3/mkspecs/linux-g++",
+		"/home/farithk/anaconda3/include/qt/QtOpenGL",
+		"/home/farithk/anaconda3/include/qt/QtSvg",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include",
+		"/usr/local/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/local/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/CGAL_Qt5_moc_and_resources_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/qrc_CGAL.cpp",
+		"/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/qrc_File.cpp",
+		"/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/qrc_Input.cpp",
+		"/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/qrc_Triangulation_2.cpp",
+		"/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/ui_ImageInterface.h"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/CMakeFiles/CGAL_Qt5_moc_and_resources_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/farithk/anaconda3/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "/home/farithk/Documents/Maestria/thesis/simplex_03/simplex_mesh/build/CMakeFiles/CGAL_Qt5_moc_and_resources_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : [],
+	"VERBOSITY" : 0
+}
